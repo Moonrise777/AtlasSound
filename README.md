@@ -162,8 +162,7 @@ The dashboard helps answer questions such as:
 5. Popularity Distribution
 6. Explicit vs Non-Explicit Analysis
 7. Artist Intelligence
-8. Audio Feature Analysis
-9. Data Engineering Overview
+8. Data Engineering Overview
 
 ---
 
