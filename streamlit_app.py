@@ -207,7 +207,7 @@ st.subheader("🌷 Dataset Preview")
 
 tab1, tab2 = st.tabs(
     [
-        "Global Music Dataset",
+        "Spotify Global Music Dataset (2009–2025)",
         "Most Streamed Songs"
     ]
 )
