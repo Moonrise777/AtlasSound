@@ -171,6 +171,6 @@ The dashboard helps answer questions such as:
 
 **Arely Zuleika Espino**
 
-Senior Manager | Data & Analytics Enthusiast
+Associate Data Engineer | Data & Analytics Enthusiast
 
 Built as a portfolio project showcasing modern Data Engineering, Analytics, Business Intelligence, and Interactive Dashboard development using Spotify data.
